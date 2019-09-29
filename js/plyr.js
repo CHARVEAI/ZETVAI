@@ -1,5 +1,1 @@
-$(function () {
-  $('select').change(function () {
-    $('iframe').attr('src', $(this).val());
-  });
-});
+$(function(){$("select").change(function(){$("iframe").attr("src",$(this).val())})});
