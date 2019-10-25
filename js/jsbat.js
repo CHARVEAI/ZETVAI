@@ -1,4 +1,3 @@
-/*! JS Bat 2013 - v1.2 - Eric Grange - www.delphitools.info */
 ;(function () {
 var r=Math.random,n=0,d=document,w=window,
 	i=d.createElement('img'),
