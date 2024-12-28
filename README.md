@@ -51,9 +51,9 @@ Whether you’re an individual seeking to amplify your efficiency or a team stri
 
 ## Getting Started
 
-Ready to embrace the future? Check out our [Getting Started Guide](https://github.com/MEISKEAI/MEISKEAI/wiki/Quickstart) for a comprehensive walkthrough on setting up and unleashing the power of MEISKE AI MODULE.
+Ready to embrace the future? Check out our [Getting Started Guide](https://github.com/MEISKEAI/MEISKEFRAMEWORK/wiki/Quickstart) for a comprehensive walkthrough on setting up and unleashing the power of MEISKE AI MODULE.
 
 ## Links
 
-- [GitHub](https://github.com/MEISKEAI/MEISKEAI/)
+- [GitHub](https://github.com/MEISKEAI/MEISKEFRAMEWORK/)
 - [X](https://x.com/MEISKEAI)
