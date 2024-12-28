@@ -1,28 +1,28 @@
-# KYSIV FRAMEWORK
+# KYSIV MODULE
 
-Welcome to the official documentation for KYSIV FRAMEWORK! This advanced open-source multi-LLM framework is designed to help individuals and teams optimize their workflows, create innovative solutions, and achieve ambitious objectives using the power of cutting-edge artificial intelligence.
+Welcome to the official documentation for KYSIV MODULE! This advanced open-source multi-LLM MODULE is designed to help individuals and teams optimize their workflows, create innovative solutions, and achieve ambitious objectives using the power of cutting-edge artificial intelligence.
 
 ## Table of Contents
 
-- [What is KYSIV FRAMEWORK?](#what-is-kysiv-ai)
-- [Who is KYSIV FRAMEWORK For?](#who-is-kysiv-ai-for)
-- [Why Choose KYSIV FRAMEWORK?](#why-choose-kysiv-ai)
+- [What is KYSIV MODULE?](#what-is-kysiv-ai)
+- [Who is KYSIV MODULE For?](#who-is-kysiv-ai-for)
+- [Why Choose KYSIV MODULE?](#why-choose-kysiv-ai)
   - [Key Features](#key-features)
   - [Core Benefits](#core-benefits)
 - [Getting Started](#getting-started)
 - [Links](#links)
 
-## What is KYSIV FRAMEWORK?
+## What is KYSIV MODULE?
 
-KYSIV FRAMEWORK is a smart platform that merges the latest AI advancements with practical tools to simplify intricate tasks. Whether you’re a developer, project manager, or entrepreneur, KYSIV AI is designed to:
+KYSIV MODULE is a smart platform that merges the latest AI advancements with practical tools to simplify intricate tasks. Whether you’re a developer, project manager, or entrepreneur, KYSIV AI is designed to:
 
 - **Enhance Productivity**: Automate repetitive tasks so you can concentrate on what truly matters.
 - **Foster Innovation**: Effortlessly generate creative ideas, strategies, and solutions.
 - **Improve Collaboration**: Streamline team workflows and enhance project coordination.
 
-From brainstorming to implementation, KYSIV FRAMEWORK serves as your intelligent assistant, making your journey more efficient and impactful.
+From brainstorming to implementation, KYSIV MODULE serves as your intelligent assistant, making your journey more efficient and impactful.
 
-## Who is KYSIV FRAMEWORK For?
+## Who is KYSIV MODULE For?
 
 KYSIV AI is adaptable and serves:
 
@@ -33,7 +33,7 @@ KYSIV AI is adaptable and serves:
 
 Whether you’re an individual aiming to increase your efficiency or a team looking for seamless collaboration, KYSIV AI adjusts to your needs.
 
-## Why Choose KYSIV FRAMEWORK?
+## Why Choose KYSIV MODULE?
 
 ### Key Features:
 
