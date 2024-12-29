@@ -1,39 +1,39 @@
-# ZETV MODULE V1
+# CHARVE AI MODULE V1
 
-Welcome to the official documentation for **ZETV MODULE**! This is not just another tool; it’s a **rebirth** of efficiency and innovation. Designed as a sleek, open-source multi-LLM module, **ZETV MODULE** empowers individuals and teams to optimize workflows, create innovative solutions, and achieve ambitious goals through the power of advanced artificial intelligence.
+Welcome to the official documentation for **CHARVE AI MODULE**! This is not just another tool; it’s a **revolution** in efficiency and innovation, designed for the **futuristic** landscape of the Solana blockchain. With a bold, brutalist aesthetic, **CHARVE AI MODULE** is an open-source multi-LLM framework that empowers individuals and teams to optimize workflows, create groundbreaking solutions, and achieve ambitious goals through the power of advanced artificial intelligence.
 
 ## Table of Contents
 
-- [What is ZETV MODULE?](#what-is-ZETV-module)
-- [Who is ZETV MODULE For?](#who-is-ZETV-module-for)
-- [Why Choose ZETV MODULE?](#why-choose-ZETV-module)
+- [What is CHARVE AI MODULE?](#what-is-charve-ai-module)
+- [Who is CHARVE AI MODULE For?](#who-is-charve-ai-module-for)
+- [Why Choose CHARVE AI MODULE?](#why-choose-charve-ai-module)
   - [Key Features](#key-features)
   - [Core Benefits](#core-benefits)
 - [Getting Started](#getting-started)
 - [Links](#links)
 
-## What is ZETV MODULE?
+## What is CHARVE AI MODULE?
 
-**ZETV MODULE** is a streamlined platform built on the latest AI advancements, combining power with simplicity to tackle complex tasks effortlessly. Whether you’re a developer, project manager, or entrepreneur, **ZETV AI** is crafted to:
+**CHARVE AI MODULE** is a platform built on the latest advancements in AI, merging power with simplicity to tackle complex tasks effortlessly. Whether you’re a developer, project manager, or entrepreneur, **CHARVE AI** is crafted to:
 
 - **Enhance Productivity**: Automate routine tasks, allowing you to focus on what truly matters.
-- **Foster Innovation**: Easily generate fresh ideas and effective strategies.
+- **Foster Innovation**: Generate fresh ideas and effective strategies with ease.
 - **Simplify Collaboration**: Improve team workflows and eliminate barriers to coordination.
 
-From brainstorming to execution, **ZETV MODULE** is your essential partner, making your journey efficient and impactful.
+From brainstorming to execution, **CHARVE AI MODULE** is your essential partner, making your journey efficient and impactful in the dynamic world of Solana.
 
-## Who is ZETV MODULE For?
+## Who is CHARVE AI MODULE For?
 
-**ZETV AI** is versatile and designed for:
+**CHARVE AI** is versatile and designed for:
 
 - **Developers**: Streamline code generation, debugging, and project management with ease.
 - **Businesses**: Optimize workflows and elevate decision-making for enhanced customer experiences.
 - **Researchers and Analysts**: Effortlessly extract insights and analyze data.
 - **Creative Professionals**: Generate ideas, refine content, and automate repetitive tasks efficiently.
 
-Whether you’re an individual looking to boost your productivity or a team aiming for seamless collaboration, **ZETV AI** adapts to your needs.
+Whether you’re an individual looking to boost your productivity or a team aiming for seamless collaboration, **CHARVE AI** adapts to your needs.
 
-## Why Choose ZETV MODULE?
+## Why Choose CHARVE AI MODULE?
 
 ### Key Features:
 
@@ -51,9 +51,9 @@ Whether you’re an individual looking to boost your productivity or a team aimi
 
 ## Getting Started
 
-Ready to embrace the future? Check out our [Getting Started Guide](https://github.com/ZETVAI/ZETVMODULE/wiki/Quickstart) for a simple walkthrough on setting up and unleashing the power of **ZETV AI MODULE**.
+Ready to embrace the future? Check out our [Getting Started Guide](https://github.com/CHARVEAI/charve-apps/wiki/Quickstart) for a simple walkthrough on setting up and unleashing the power of **CHARVE AI MODULE**.
 
 ## Links
 
-- [GitHub](https://github.com/ZETVAI/ZETVMODULE/)
-- [X](https://x.com/ZETVAI)
+- [GitHub](https://github.com/CHARVEAI/charve-apps)
+- [X](https://x.com/CHARVEAI)
