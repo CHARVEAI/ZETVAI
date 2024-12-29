@@ -1,4 +1,4 @@
-# ZETVAI: ZETV MODULE V1
+# ZETV MODULE V1
 
 Welcome to the official documentation for **ZETV MODULE**! This is not just another tool; it’s a **rebirth** of efficiency and innovation. Designed as a sleek, open-source multi-LLM module, **ZETV MODULE** empowers individuals and teams to optimize workflows, create innovative solutions, and achieve ambitious goals through the power of advanced artificial intelligence.
 
