@@ -51,9 +51,9 @@ Whether you’re an individual looking to boost your productivity or a team aimi
 
 ## Getting Started
 
-Ready to embrace the future? Check out our [Getting Started Guide](https://github.com/CHARVEAI/charve-llm/wiki/Quickstart) for a simple walkthrough on setting up and unleashing the power of **CHARVE AI MODULE**.
+Ready to embrace the future? Check out our [Getting Started Guide](https://github.com/CHARVEAI/charve-framework/wiki/Quickstart) for a simple walkthrough on setting up and unleashing the power of **CHARVE AI MODULE**.
 
 ## Links
 
-- [GitHub](https://github.com/CHARVEAI/charve-llm)
+- [GitHub](https://github.com/CHARVEAI/charve-framework)
 - [X](https://x.com/CHARVEAI)
