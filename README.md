@@ -1,59 +1,60 @@
-# CHARVE AI MODULE V1
+# KAEK AI
 
-Welcome to the official documentation for **CHARVE AI MODULE**! This is not just another tool; it’s a **revolution** in efficiency and innovation, designed for the **futuristic** landscape of the Solana blockchain. With a bold, brutalist aesthetic, **CHARVE AI MODULE** is an open-source multi-LLM framework that empowers individuals and teams to optimize workflows, create groundbreaking solutions, and achieve ambitious goals through the power of advanced artificial intelligence.
+Welcome to the official guide for **KAEK AI**! This isn’t just another app; it’s a **game-changer** in the world of AI, built for the cool and innovative Solana blockchain. With a fresh, modern vibe, **KAEK AI** is an open-source, multi-LLM platform that helps you and your team work smarter, create awesome solutions, and crush your goals using the latest in artificial intelligence.
 
 ## Table of Contents
 
-- [What is CHARVE AI MODULE?](#what-is-charve-ai-module)
-- [Who is CHARVE AI MODULE For?](#who-is-charve-ai-module-for)
-- [Why Choose CHARVE AI MODULE?](#why-choose-charve-ai-module)
-  - [Key Features](#key-features)
-  - [Core Benefits](#core-benefits)
-- [Getting Started](#getting-started)
+- [What is KAEK AI?](#what-is-kaek-ai)
+- [Who Can Use KAEK AI?](#who-can-use-kaek-ai)
+- [Why Go with KAEK AI?](#why-go-with-kaek-ai)
+  - [Cool Features](#cool-features)
+  - [Awesome Benefits](#awesome-benefits)
+- [How to Get Started](#how-to-get-started)
 - [Links](#links)
 
-## What is CHARVE AI MODULE?
+## What is KAEK AI?
 
-**CHARVE AI MODULE** is a platform built on the latest advancements in AI, merging power with simplicity to tackle complex tasks effortlessly. Whether you’re a developer, project manager, or entrepreneur, **CHARVE AI** is crafted to:
+**KAEK AI** is all about using the latest AI tech to make tough tasks super easy. Whether you’re a coder, a project leader, or an entrepreneur, **KAEK AI** is designed to:
 
-- **Enhance Productivity**: Automate routine tasks, allowing you to focus on what truly matters.
-- **Foster Innovation**: Generate fresh ideas and effective strategies with ease.
-- **Simplify Collaboration**: Improve team workflows and eliminate barriers to coordination.
+- **Boost Your Productivity**: Automate boring tasks so you can focus on what really matters.
+- **Spark Creativity**: Come up with new ideas and smart strategies without breaking a sweat.
+- **Make Teamwork Easier**: Improve how your team works together and get rid of any roadblocks.
 
-From brainstorming to execution, **CHARVE AI MODULE** is your essential partner, making your journey efficient and impactful in the dynamic world of Solana.
+From brainstorming to getting things done, **KAEK AI** is your go-to buddy, making your journey smooth and impactful in the fast-paced world of Solana.
 
-## Who is CHARVE AI MODULE For?
+## Who Can Use KAEK AI?
 
-**CHARVE AI** is versatile and designed for:
+**KAEK AI** is super flexible and perfect for:
 
-- **Developers**: Streamline code generation, debugging, and project management with ease.
-- **Businesses**: Optimize workflows and elevate decision-making for enhanced customer experiences.
-- **Researchers and Analysts**: Effortlessly extract insights and analyze data.
-- **Creative Professionals**: Generate ideas, refine content, and automate repetitive tasks efficiently.
+- **Developers**: Make coding, debugging, and project management a breeze.
+- **Businesses**: Streamline your processes and make better decisions for happier customers.
+- **Researchers and Analysts**: Easily pull insights and analyze data.
+- **Creative Minds**: Generate ideas, polish your content, and automate repetitive tasks like a pro.
 
-Whether you’re an individual looking to boost your productivity or a team aiming for seamless collaboration, **CHARVE AI** adapts to your needs.
+Whether you’re looking to level up your productivity or your team wants to work better together, **KAEK AI** has got your back.
 
-## Why Choose CHARVE AI MODULE?
+## Why Go with KAEK AI?
 
-### Key Features:
+### Cool Features:
 
-- **Customizable Workflows**: Tailor the platform to your specific needs, keeping it simple and effective.
-- **Modular Design**: Use only the features you need for a focused experience.
-- **Scalability**: Ideal for both individuals and organizations, ready to grow with you.
-- **Advanced AI**: Built with cutting-edge machine learning and natural language processing.
+- **Private RAG (Retrieval-Augmented Generation)**: Get secure and smart info retrieval to enhance your responses.
+- **Any LLM Support**: Use different language models that fit your needs perfectly.
+- **Smart Agents**: Set up customizable agents that can handle tasks on their own.
+- **Open Source**: Join a community-driven project where you can collaborate and innovate.
+- **Multi-Chain Support**: Built for the Solana blockchain, making it easy to connect with decentralized apps.
 
-### Core Benefits:
+### Awesome Benefits:
 
-- **Time Savings**: Automate time-consuming tasks and reclaim your valuable hours.
-- **Insight Generation**: Utilize data-driven insights for informed decision-making.
-- **Innovation Support**: Enhance your creative processes with limitless AI assistance.
-- **Seamless Integration**: Effortlessly fits into your existing tools and workflows.
+- **Save Time**: Automate those tedious tasks and get back your precious hours.
+- **Generate Insights**: Use data-driven insights to make smart decisions.
+- **Fuel Your Creativity**: Get limitless AI help to boost your creative projects.
+- **Easy Integration**: Fits right into your existing tools and workflows without a hitch.
 
-## Getting Started
+## How to Get Started
 
-Ready to embrace the future? Check out our [Getting Started Guide](https://github.com/CHARVEAI/charve-ai/wiki/Quickstart) for a simple walkthrough on setting up and unleashing the power of **CHARVE AI MODULE**.
+Ready to dive in? Check out our [Getting Started Guide](https://github.com/KAEK-AI/kaekai/wiki/Quickstart) for a simple walkthrough on setting up and unlocking the power of **KAEK AI**.
 
 ## Links
 
-- [GitHub](https://github.com/CHARVEAI/charve-ai)
-- [X](https://x.com/CHARVEAI)
+- [GitHub](https://github.com/KAEK-AI/kaekai)
+- [X.com](https://twitter.com/KAEK_AI)
