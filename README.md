@@ -1,3 +1,10 @@
+<div style="text-align: center;">
+<img src="https://github.com/KAEK-AI/kaekai/blob/master/assets/logo.jpg?raw=true" alt="KEAKAI">
+</div>
+<hr>
+
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F) ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
 # KAEK AI
 
 Welcome to the official guide for **KAEK AI**! This isn’t just another app; it’s a **game-changer** in the world of AI, built for the cool and innovative Solana blockchain. With a fresh, modern vibe, **KAEK AI** is an open-source, multi-LLM platform that helps you and your team work smarter, create awesome solutions, and crush your goals using the latest in artificial intelligence.
