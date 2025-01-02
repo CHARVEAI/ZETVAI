@@ -63,5 +63,5 @@ Ready to dive in? Check out our [Getting Started Guide](https://github.com/KAEK-
 
 ## Links
 
-- [GitHub](https://github.com/KAEK-AI/kaekai)
+- [GitHub](https://github.com/KAEK-AI/kaek-ai)
 - [X.com](https://twitter.com/KAEK_AI)
